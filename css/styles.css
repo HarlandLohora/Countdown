@@ -1,0 +1,12 @@
+*{
+  background-color: orange;
+  font-size: 1.5em;
+  color:white;
+}
+
+
+#clock{
+  display: flex;
+justify-content: center; /* align horizontal */
+align-items: center; /* align vertical */
+}
